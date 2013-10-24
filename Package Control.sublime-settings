@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"ASCII Decorator",
+		"Backbone.js",
+		"CakePHP (tmbundle)",
+		"CoffeeScript",
+		"CoffeeScript Function Finder",
+		"DetectSyntax",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"HTML5",
+		"JS2Coffee",
+		"Local History",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SortTabs",
+		"Sublime File Navigator",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Wordpress"
+	],
+	"repositories":
+	[
+		"https://github.com/joshnh/CSS-Snippets.git",
+		"https://github.com/phillipkoebbe/DetectSyntax.git"
+	]
+}
