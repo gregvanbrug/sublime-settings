@@ -119,12 +119,20 @@
         // **User** "jshint_options". This issue affects users with tabs for indentation.
         // This fix was reverted due to a conflict with using the `"white": true` option.
         // "indent": 1,
-        "evil": true,
-        "regexdash": true,
+        "node": true,
         "browser": true,
-        "wsh": true,
-        "trailing": true,
-        "sub": true
+        "curly": true,
+        "eqeqeq": true,
+        "immed": true,
+        "latedef": true,
+        "newcap": true,
+        "noarg": true,
+        "sub": true,
+        "undef": true,
+        "unused": false,
+        "boss": true,
+        "eqnull": true,
+        "trailing": true
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.
