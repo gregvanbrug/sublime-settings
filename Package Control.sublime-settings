@@ -4,6 +4,7 @@
 	[
 		"Alignment",
 		"ASCII Decorator",
+		"ColorPicker",
 		"DetectSyntax",
 		"EditorConfig",
 		"Emmet",
