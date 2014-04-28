@@ -1,25 +1,26 @@
 {
-  "auto_complete_selector": "source, text",
-  "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
-  "detect_indentation": true,
-  "file_exclude_patterns":
-  [
-    ".DS_Store"
-  ],
-  "folder_exclude_patterns":
-  [
-    ".git"
-  ],
-  "font_face": "Inconsolata",
-  "font_size": 17.0,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "remember_open_files": false,
-  "tab_size": 4,
-  "translate_tabs_to_spaces": true,
-  "draw_white_space": "all",
-  "word_wrap": "false"
+	"auto_complete_selector": "source, text",
+	"theme": "Spacegray Eighties.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".git"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 15.0,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "false"
 }
