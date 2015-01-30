@@ -1,31 +1,38 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"Alignment",
-		"ASCII Decorator",
-		"ColorPicker",
+		"CSS Unminifier",
 		"DetectSyntax",
 		"EditorConfig",
+		"EJS",
 		"Emmet",
+		"File Navigator",
 		"GitGutter",
 		"Handlebars",
-		"JSONLint",
+		"Javascript Beautify",
 		"KnockoutJS Completions",
 		"Local History",
+		"Monokai Extended",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
 		"SideBarEnhancements",
 		"SortTabs",
-		"Sublime File Navigator",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SyncedSideBar",
 		"Theme - Soda",
-		"Theme - Spacegray",
-		"TrailingSpaces",
-		"Wordpress"
+		"TrailingSpaces"
 	],
 	"repositories":
 	[
