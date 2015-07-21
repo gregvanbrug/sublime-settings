@@ -3,15 +3,10 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
-		"CSS Unminifier",
-		"DetectSyntax",
+		"ApplySyntax",
+		"CSS Format",
 		"EditorConfig",
 		"EJS",
 		"Emmet",
@@ -23,9 +18,12 @@
 		"Local History",
 		"Monokai Extended",
 		"Package Control",
+		"PHP-Twig",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
 		"SortTabs",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",

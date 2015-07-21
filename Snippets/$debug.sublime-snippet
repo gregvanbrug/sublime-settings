@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<?php
+  \$debug = new PHPDebug();
+  \$debug->debug( ${1:\$name}, ${2:\$var}, ${3:\$type} );
+?>
+]]></content>
+    <tabTrigger>debug</tabTrigger>
+    <scope>text.html - source.php</scope>
+    <description>For use with PHPDebug</description>
+</snippet>

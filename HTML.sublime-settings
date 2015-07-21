@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"block",
+		"item",
+		"list",
+		"page",
+		"region"
+	]
+}
