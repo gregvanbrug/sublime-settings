@@ -28,8 +28,12 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-phplint",
+		"Swift",
 		"SyncedSideBar",
 		"Theme - Soda",
 		"TrailingSpaces"
